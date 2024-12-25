@@ -1,0 +1,499 @@
+{
+    "results": [
+        {
+            "question": "What are the variations in playing MONOPOLY with the Speed Die?",
+            "ground_truth": "MONOPOLY \nProperty Trading Game from Parker Brothers\" \nAGES 8+ \n2 to 8 Players \nContents: Gameboard, 3 dice, tokens, 32 houses, I2 hotels, Chance \nand Community Chest cards, Title Deed cards, play money and a Banker's tray. Now there's a faster way to play MONOPOLY. Choose to play by \nthe classic rules for buying, renting and selling properties or use the \nSpeed Die to get into the action faster. If you've never played the classic \nMONOPOLY game, refer to the Classic Rules beginning on the next page. If you already know how to play and want to use the Speed Die, just \nread the section below for the additional Speed Die rules.",
+            "predicted": "According to the context, there are two main rules that affect when players can start using the Speed Die:\n\n1. The game starts with each player receiving $1,000 (two $500 bills) as extra cash.\n2. Players cannot use the Speed Die until they have landed on or passed over \"GO\" for the first time and collected their initial $200 salary.\n\nOnce these conditions are met, players can start using the Speed Die, which is rolled along with the two white dice on each turn. The result of the Speed Die determines how many spaces to move:\n\n* If the Speed Die shows 1, 2, or 3, add this number to the roll of the two white dice.",
+            "scores": {
+                "BLEU": 0.043684977443460574,
+                "ROUGE-1": 0.0010420134014501353,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0010420134014501353,
+                "Cosine Similarity": 0.46826696395874023
+            }
+        },
+        {
+            "question": "What are the rules regarding when to use the \"Speed Die\" in the game?",
+            "ground_truth": "SPEED DIE RULES \nLearnins how to Play with the S ~ e e d  \nDie IS as \n/ \nfast as playing with i't. 1. When starting the game, hand out an extra $1,000 to each player \n(two $5005 should work). The game moves fast and you'll need \nthe extra cash to buy and build. 2. Do not use the Speed Die until you've landed on or passed over \nGO for the first time. Once you collect that first $200 salary, you'll \nuse the Speed Die for the rest of the game. This means that some \nplayers will start using the die before others.",
+            "predicted": "There is no mention of a \"Speed Die\" in the provided context. The text appears to be about different topics, including a board game (Monopoly) and mobile devices, but does not discuss the use of a \"Speed Die\".",
+            "scores": {
+                "BLEU": 2.297475620864806e-232,
+                "ROUGE-1": 0.0035024655514078987,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0035024655514078987,
+                "Cosine Similarity": 0.46034371852874756
+            }
+        },
+        {
+            "question": "What happens when you roll the Speed Die with the two white dice during your turn?",
+            "ground_truth": "3. Once you start using the Speed Die, roll it along with the two \nwhite dice on your turn. Then do the following depending on \nwhat you rolled. 1, 2, or 3: Add this number to the roll of the two white \ndice. You'll zoom around the board. Bus: This lets you \"get off the bus early.\" Look at the two white \ndice. You can move the value of one die, the other die, or the \nsum of both dice. So if you rolled a 1 and a 5, you can move \n1 space, 5 spaces, or 6 spaces: \\t's your choice. Mr. Monopoly: First, move the sum of the two white dice \nand resolve the space you land on (such as drawing a card, \nbuying the property, paying rent, etc.).",
+            "predicted": "According to rule 3, when you roll the Speed Die along with the two white dice, you do the following depending on what you rolled:\n\n* If you rolled a 1, 2, or 3, add this number to the roll of the two white dice. This will allow you to move around the board more quickly.",
+            "scores": {
+                "BLEU": 0.10442040751875402,
+                "ROUGE-1": 0.00044797849703214247,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.00044797849703214247,
+                "Cosine Similarity": 0.5880210399627686
+            }
+        },
+        {
+            "question": "What happens when there is still property available in the bank, and what happens when there is no more property left?",
+            "ground_truth": "Then, one of two \nthings will happen depending on whether or not there is still \nproperty in the bank. YES, there is property in the bank -Advance to the NEXT \nproperty that the bank still holds and buy it if you wish. If you \ndon't want to buy this property, move to the space anyway \nand put the property up for auction. NO, there are no more properties in the bank - \nAdvance to the \nNOCT property on which you will owe another player money. A few minor details: \nOnly the white dice are used when determining if you rolled doubles.",
+            "predicted": "The text does not provide a specific answer to this question. However, it mentions that \"All remaining money and other equipment go to the Bank\" after the distribution of $1,500 to each player. \n\nIt also states that \"the Bank holds the Title Deed cards and houses and hotels prior to purchase and use by the players.\" This implies that the Bank serves as a repository for available properties.\n\nHowever, it does not explicitly state what happens when there is still property available in the bank versus when all properties have been purchased.",
+            "scores": {
+                "BLEU": 0.048898439653751055,
+                "ROUGE-1": 3.610499332057624e-05,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 3.610499332057624e-05,
+                "Cosine Similarity": 0.7016185522079468
+            }
+        },
+        {
+            "question": "What is the specific condition for using the Speed Die, other than moving anywhere on the board?",
+            "ground_truth": "Do not look at the Speed Die. If you roll a three-of-a-kind (all of the dice show the same number), \nyou can move anywhere you want on the board! If you get sent to jail during your move (either by landing on the \"Go \nto Jail\" space or by rolling doubles three times in a row) then your turn \nis over and you do not get to use the Speed Die for that turn. Use the white dice ONLY when rolling to get out of jail. L \nUse the sum of all three dice when determining how much to pay on \na utility. Note: The Bus and Mr.",
+            "predicted": "According to the text, the specific condition for using the Speed Die, other than moving anywhere on the board, is that you must have landed on or passed over GO at least once and collected your first $200 salary.",
+            "scores": {
+                "BLEU": 1.0038495524303922e-155,
+                "ROUGE-1": 0.00103541999223435,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.00103541999223435,
+                "Cosine Similarity": 0.6460739970207214
+            }
+        },
+        {
+            "question": "What are the specific denominations of cash distributed to each player at the start of a classic Monopoly game?",
+            "ground_truth": "Monopoly are valued at 0. CLASSIC MONOPOW RULES \nOBJECT: The object of the game IS to become the \nwealthiest player through buying, renting and selling \nproperty. PREPARATION: Place the board on a table and put \nthe Chance and Community Chest cards facedown on \ntheir allotted spaces on the board. Each player chooses one token to \nrepresent himther while traveling around the board. Each player is given $1,500 divided as follows: P each of $500s, \n$ 1 0 0 ~  \nand $50~; 6 $40~; 5 each of $105, $ 5 ~  \nand $Is. All remaining money and other equipment go to the Bank.",
+            "predicted": "There is no mention of cash denominations in the provided context. The text appears to be about rules and concepts related to the game Monopoly, but it only discusses the \"JAIL\" space, bots, mobile devices, and cyber security, without mentioning anything about starting cash distributions.\n\nHowever, based on general knowledge of Monopoly, at the start of a classic game, each player typically receives $1,500.",
+            "scores": {
+                "BLEU": 2.566703101393318e-155,
+                "ROUGE-1": 0.0013755158184319122,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0013755158184319122,
+                "Cosine Similarity": 0.5521082878112793
+            }
+        },
+        {
+            "question": "Who should be elected as both Banker and Auctioneer when more than five persons play?",
+            "ground_truth": "Stack the .. \nBank's money on edge in the compartments in the plastic Banker's tray. BANKER. Select as Banker a player who will also \nmake a good Auctioneer A Banker who plays \n~n the game must keep hislher personal funds \nseparate from those of the Bank. When more than \nf~ve persons play, the Banker may elect to act only \nas Banker and Auctioneer. THE BANK: Besides the Bank's money, the Bank \nholds the Title Deed cards and houses and hotels prior to purchase \nand use by the players. The Bank pays salaries and bonuses.",
+            "predicted": "There is no mention of electing a Banker and Auctioneer in the provided context. The text appears to be about various topics such as jail rules in Monopoly, bots, mobile devices, laptop security, and warning labels. Therefore, I cannot provide an answer to the question based on the given context.",
+            "scores": {
+                "BLEU": 2.091650145515608e-155,
+                "ROUGE-1": 0.001278136760633388,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.001278136760633388,
+                "Cosine Similarity": 0.5556659698486328
+            }
+        },
+        {
+            "question": "Who throws the dice first and starts the game?",
+            "ground_truth": "It sells \nand auctions properties and hands out the~r proper Title Deed cards; \nit sells houses and hotels to the players and loans money when \nrequired on mortgages. The Bank collects all taxes, fines, loans and interest, and the price of \nall properties which it sells and auctions. The Bank nwer \"goes broke.\" If the Bank runs out of money, the Banker \nmay issue as much more as needed by writing on any ordinary paper. THE PLAY: Starting with the Banker, each player in turn throws the dice. The player with the highest total starts the play: Place your \ntoken on the corner marked \"GO,\" throw the dice and move \nyour token in the direction of the arrow the number of \nspaces indicated by the dice.",
+            "predicted": "According to rule 2, \"Do not use the Speed Die until you've landed on or passed over GO for the first time.\" This implies that players do not throw the dice (Speed Die) at the start of the game. Instead, they receive an extra $1,000 and the game begins with them waiting for their turn to land on or pass over GO.\n\nThere is no explicit rule stating who throws the dice first when the game starts, but based on the description, it seems that players take turns landing on spaces, including GO, before the Speed Die is used.",
+            "scores": {
+                "BLEU": 1.0341285545842492e-78,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.27700141072273254
+            }
+        },
+        {
+            "question": "What happens when a player lands on a space with a Chance or Community Chest card?",
+            "ground_truth": "After you have completed \nyour play, the turn passes to the left. The tokens remain \non the spaces qccupied and proceed from that point on \nthe player's next turn. Two or more tokens may rest on the \nsame space at the same time. According to the space your token reaches, you may be entitled to \nbuy real estate or other properties - \nor obliged to pay rent, pay taxes, \ndraw a Chance or Community Chest card, \"Go to Jail,\" etc. If you throw doubles, you move your token as usual, the sum of the \ntwo dice, and are subject to any privileges or penalties pertaining to \nthe space on which you land.",
+            "predicted": "According to the text, when a player lands on a space with a Chance or Community Chest card, they draw the top card from its respective deck. The text states:\n\n\"...according to the space your token reaches, you may be entitled to buy real estate or other properties - or obliged to pay rent, pay taxes, draw a Chance or Community Chest card, 'Go to Jail,' etc.\"",
+            "scores": {
+                "BLEU": 0.2606227899801266,
+                "ROUGE-1": 0.0012768256150861856,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0012768256150861856,
+                "Cosine Similarity": 0.5346860885620117
+            }
+        },
+        {
+            "question": "What are the consequences of drawing certain cards when a player passes the \"GO\" space?",
+            "ground_truth": "Retaining the dice, throw again and move \nyour token as before. If you throw doubles three times in succession, \nmove your token immediately to the space marked \"In Jail\" (see JAIL). \"GO\": Each time a player's token lands on or passes over \nGO, whether by throwing the dice or drawing a card, \nthe Banker pays himther a $200 sala,ry. The $200 is paid only once each time kound \nthe board. However, if a player passing GO on \nthe throw of the dice lands 2 spaces beyond it \non Community Chest, or 7 spaces beyond \nit on Chance, and draws the \"Advance to GO\" card, helshe collects \n$200 for passing GO the first time and another $200 for reaching it the \nsecond time by instructions on the card.",
+            "predicted": "According to the text, if a player lands on the space marked \"Go to Jail\", they will be sent to jail and cannot collect their $200 salary in that move. They must move their token directly into Jail, and their turn ends immediately.",
+            "scores": {
+                "BLEU": 4.123022700860876e-79,
+                "ROUGE-1": 0.001083790557474768,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.001083790557474768,
+                "Cosine Similarity": 0.5414794683456421
+            }
+        },
+        {
+            "question": "What is the condition under which a player can purchase an unowned property from the Bank?",
+            "ground_truth": "BUYING PROPERTY: Whenever you land on an unowned property you \nmay buy that property from the Bank at its printed price. You receive the \nTitle Deed card showing ownership; place it faceup in front of you. If you do not wish to buy the property, the Banker sells it at auction \nto the highest bidder. The buyer pays the Bank the amount of the bid \nin cash and receives the Title Deed card for that property. Any player, \nincluding the one who declined the option to buy it at the printed \nprice, may bid. Bidding may start at any price.",
+            "predicted": "There is no mention of purchasing an unowned property from the Bank in the provided context. The text only discusses rules related to landing on certain spaces, going to jail, and getting out of jail. It does not provide any information about buying properties. \n\nHowever, it mentions that \"Even though you are in Jail, you may buy and sell property...\", which implies that a player can buy an unowned property while in jail.",
+            "scores": {
+                "BLEU": 0.05066966659385442,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.5604838132858276
+            }
+        },
+        {
+            "question": "What are the benefits of holding all Title Deed cards for a specific color group?",
+            "ground_truth": "PAMNG \nWhen you land on property owned by another player, \nthe owner collects rent from you in accordance with the list printed on \nits Title Deed card. If the property is mortgaged, no rent can be collected. When a \nproperty is mortgaged, its Title Deed card is placed facedown in front \nof the owner. L \nIt is an advantage to hold all the Title Deed cards in a color- \ngroup (e.g., Boardwalk and Park Place; or Connecticut, Vermont and \nOriental Avenues) because the owner may then charge double rent \nfor unimproved properties in that color-group.",
+            "predicted": "There is no information in the provided context about Title Deed cards, their benefits, or any mention of them being associated with a specific color group. The context appears to be related to a board game (likely Monopoly), mobile devices, and banking/transaction processing, but there is no mention of Title Deed cards.",
+            "scores": {
+                "BLEU": 2.195434253070341e-155,
+                "ROUGE-1": 0.0011665208515602217,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0011665208515602217,
+                "Cosine Similarity": 0.5796535611152649
+            }
+        },
+        {
+            "question": "Does this rule apply universally, regardless of whether properties are mortgaged or not?",
+            "ground_truth": "This rule applies to \nunmortgaged properties even if another property in that color-group is \nmortgaged. It is even more advantageous to have houses or hotels on properties \nbecause rents are much higher than for unimproved properties. The owner may not collect the rent if he/she fails to ask for it before \nthe second player following throws the dice. \"CHANCE\" AND \"COMMUNITY CHEST\": When you land on either of \nthese spaces, take the top card from the deck indicated, follow the \n\ninstructions and return the card facedown to the bottom of the deck.",
+            "predicted": "No, there is no mention in the provided context that suggests this rule applies universally, regardless of whether properties are mortgaged or not. In fact, none of the text mentions anything about mortgages or property ownership rules. The context appears to be related to a game (likely Monopoly) and its rules for getting out of jail.",
+            "scores": {
+                "BLEU": 2.578818944593805e-155,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.5048352479934692
+            }
+        },
+        {
+            "question": "What happens if a player who draws an \"Income Tax\" card chooses not to pay it?",
+            "ground_truth": "The \"Get Out of Jail Free\" card is held until used and then returned to \nthe bottom of the deck. If the player who draws it does not wish to use \nit, helshe may sell it, at any time, to another player at a price agreeable \nto both. \"INCOME TAX\": If you land here you have two options: You may \nestimate your tax at $900 and pay the Bank, or you may pay 10% of \nyour total worth to the Bank. Your total worth is all your cash on hand, \nprinted prices of mortgaged and unmortgaged properties and cost \nprice of all buildings you own.",
+            "predicted": "There is no information in the provided context about what happens if a player chooses not to pay when drawing an \"Income Tax\" card. The context only mentions that players may be entitled to buy real estate or other properties, or obliged to pay rent, pay taxes, draw a Chance or Community Chest card, etc., but it does not specify any consequences for failing to pay a tax.",
+            "scores": {
+                "BLEU": 7.309145928654386e-79,
+                "ROUGE-1": 0.001414963236223059,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.001414963236223059,
+                "Cosine Similarity": 0.5928506851196289
+            }
+        },
+        {
+            "question": "What is the consequence of throwing doubles three times in succession?",
+            "ground_truth": "You must decide which option you will take before you add up \nyour total worth. \"JAIL\": You land in Jail when. ..(I) your token lands on the space \nmarked \"Go to Jail\"; (2) you draw a card marked \"Go to JailN; or \n(3) you throw doubles three times in succession. When you are sent to Jail you cannot \ncollect your $200 salary in that move \nsince, regardless of where your token \nis on the board, you must move it \ndirectly into Jail. Your turn ends when \nyou are sent to Jail. If you are not \"sent\" to Jail but in the ordinary course of play land on \nthat space, you are \"Just Visiting,\" you incur no penalty, and you move \nahead in the usual manner on your next turn.",
+            "predicted": "The consequence of throwing doubles three times in succession is that your token will be moved immediately to the space marked \"In Jail\".",
+            "scores": {
+                "BLEU": 0.001849137018084159,
+                "ROUGE-1": 0.0005621767483696875,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0005621767483696875,
+                "Cosine Similarity": 0.6599697470664978
+            }
+        },
+        {
+            "question": "What are the four possible ways to get out of jail?",
+            "ground_truth": "You get out of Jail by.. . (I) throwing doubles on any of your next \nthree turns; if you succeed in doing this you immediately move forward \nthe number of spaces shown by your doubles throw; even though you \nhad thrown doubles, you do not take another turn; (2) using the \"Get \nOut of Jail Free\" card if you have it; (3) purchasing the \"Get Out of Jail \nFree\" card from another player and playing it; (4) paying a fine of $50 \nbefore you roll the dice on either of your next two turns. If you do not throw doubles by your third turn, you must pay the $50 \nfine.",
+            "predicted": "Unfortunately, I couldn't find any information about getting out of jail in the provided context. However, I did find some information that might be related.\n\nIt seems that \"JAIL\" is a space on a board game (likely Monopoly), and there are rules for landing on that space or being sent to it. The text mentions three ways to end up in Jail: (1) landing on the \"Go to Jail\" space, (2) drawing a card marked \"Go to Jail\", or (3) throwing doubles three times in succession.\n\nHowever, I couldn't find any information about getting out of jail after being sent there. It seems that this is not explicitly mentioned in the provided text.\n\nIf you could provide more context or clarify what you are looking for, I'll do my best to help!",
+            "scores": {
+                "BLEU": 3.789169501734571e-155,
+                "ROUGE-1": 0.00109080992637033,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.00109080992637033,
+                "Cosine Similarity": 0.7055771350860596
+            }
+        },
+        {
+            "question": "What are the conditions under which a player can build houses on their properties?",
+            "ground_truth": "You then get out of Jail and immediately move forward the number \nof spaces shown by your throw. Even though you are in Jail, you may buy and sell property, buy and \nsell houses and hotels and collect rents. \"FREE PARKING\": A player landing on this place does not \nreceive any money, property or reward of any kind. This is just a \"free\" \nresting place. HOUSES: When you own all the propert~es in a color-group \nyou may buy houses from the Bank and erect them on those properties. If you buy one house, you may put it on any \none of those properties.",
+            "predicted": "Unfortunately, there is no mention of building houses on properties in the provided context. The text only discusses rules for playing Monopoly, jail, bots, mobile devices, and other unrelated topics. There is no information about building houses on properties in the given text.",
+            "scores": {
+                "BLEU": 3.2099412265470534e-232,
+                "ROUGE-1": 0.00048319182715538065,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.00048319182715538065,
+                "Cosine Similarity": 0.4159781336784363
+            }
+        },
+        {
+            "question": "Can I build a house on an unimproved property in my own color group to earn extra rent when an opponent lands on it?",
+            "ground_truth": "The next house you \nbuy must be erected on one of the unimproved \nproperties of this or any other complete color- \ngroup you may own. The price you must pay the Bank for each \nhouse is shown on your ltle Deed card for the \nproperty on which you erect the house. The owner still collects double rent from an opponent who lands on \nthe unimproved properties of hisher complete color-group. Following the above rules, you may buy and erect at any time as \nmany houses as your judgement and financial standing will allow.",
+            "predicted": "There is no mention of building houses or earning extra rent in the provided context. The context appears to be about various topics such as games (Monopoly), mobile devices, computing, and security, but none of them relate to real estate or property development. Therefore, I cannot provide an answer to your question based on the given context.",
+            "scores": {
+                "BLEU": 2.1105480255093632e-155,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.4920423626899719
+            }
+        },
+        {
+            "question": "Can a person build multiple houses on different properties within a color-group simultaneously?",
+            "ground_truth": "But \nyou must build evenly, i.e., you cannot erect more than one house on \nany one property of any color-group until you have built one house on \nwery property of that group. You may then begin on the second row \nof houses, and so on, up to a limit of four houses to a property. For \nexample, you cannot build three houses on one property if you have \nonly one house on another property of that group. As you build evenly, you must also break down evenly ifyou sell \nhouses back to the Bank (see SELLING PROPERTY).",
+            "predicted": "Unfortunately, there is no information about building houses in the provided text. The text appears to be a security guide with a brief mention of mobile devices at the end, and a game manual for Monopoly that discusses rules around landing in jail. There is no discussion about building houses on different properties within color groups in the context of either the security guide or the Monopoly game manual.",
+            "scores": {
+                "BLEU": 2.235592193490696e-155,
+                "ROUGE-1": 0.0010445162894802287,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0010445162894802287,
+                "Cosine Similarity": 0.5038536190986633
+            }
+        },
+        {
+            "question": "What are the conditions and rules regarding buying hotels in a color-group in a game?",
+            "ground_truth": "HOTELS: When a player has four houses on each property of a \ncomplete color-group, hdshe may buy a hotel from the Bank and erect \nit on any property of the color-group. Hdshe returns the four houses \nfrom that property to the Bank and pays the price for the hotel as shown \non the Ttle Deed card. Only one hotel may be erected on any one \nproperty. BUILDING SHORTAGES: When the Bank has no houses to sell, players \nwishing to build must wait for some player to return or sell histher \nhouses to the Bank before building.",
+            "predicted": "There is no information about buying hotels in a color-group in the provided context. The text appears to be discussing various topics unrelated to board games, including mobile devices, laptops, and warning labels.",
+            "scores": {
+                "BLEU": 1.832511468642244e-232,
+                "ROUGE-1": 0.0012486193151803292,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0012486193151803292,
+                "Cosine Similarity": 0.4419655203819275
+            }
+        },
+        {
+            "question": "Under what conditions, if a player wishes to buy more than one type of property, do they have to go through an auction?",
+            "ground_truth": "If there are a limited number of \nhouses and hotels available and two or more players wish to buy more \nthan the Bank has, the houses or hotels must be sold at auction to the \nhighest bidder. SELLING PROPERN: Unimproved properties, railroads and util~ties \n(but not buildings) may be sold to any player as a private transaction \nfor any amount the owner can get; however, no property can be sold to - \nanother player if buildings are standing on any properties of that color- \ngroup. Any buildings so located must be sold back to the Bank before \nthe owner can sell any property of that color-group.",
+            "predicted": "According to the text, a player wishing to buy more than one type of property (not just any single type) will have to go through an auction under the following condition:\n\nIf there are a limited number of houses and hotels available and two or more players wish to buy more than the Bank has, the houses or hotels must be sold at auction to the highest bidder.\n\nNote that this specific condition is mentioned in the context of \"Building Shortages\", where the Bank runs out of houses to sell.",
+            "scores": {
+                "BLEU": 0.3686452695537231,
+                "ROUGE-1": 0.0008770926286084733,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0008770926286084733,
+                "Cosine Similarity": 0.8085594773292542
+            }
+        },
+        {
+            "question": "What is the condition for a mortgage to be granted on an improved property?",
+            "ground_truth": "Houses and hotels may be sold back to the Bank at any time for one- \nhalf the price paid for them. All houses on one color-group must be sold one by one, evenly, in \nreverse of the manner in which they were erected. All hotels on one color-group may be sold at once, or they may be \nsold one house at a time (one hotel equals five houses), evenly, in \nreverse of the manner in which they were erected. MORTGAGES: Unimproved properties can be mortgaged through the \nBank at any time. Before an improved property can be mortgaged, all \nthe buildings on all the properties of its color-group must be sold back \nto the Bank at half price.",
+            "predicted": "There is no mention of mortgages or property in the provided context. The text appears to be about various topics such as Monopoly rules, mobile devices, computing technology, and laptop security, but not mortgages. Therefore, I cannot provide an answer to your question based on the given context.",
+            "scores": {
+                "BLEU": 2.9967271759462814e-232,
+                "ROUGE-1": 0.0007341521953974304,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0007341521953974304,
+                "Cosine Similarity": 0.4122965335845947
+            }
+        },
+        {
+            "question": "What is the penalty paid when an owner lifts a mortgage on a property from the bank?",
+            "ground_truth": "The mortgage value is printed on each Title \nDeed card. No rent can be collected on mortgaged properties or utilities, \nbut rent can be collected on unmortgaged properties in the \nsame group. In order to lift the mortgage, the owner must pay the Bank the \namount of the mortgage plus 10% interest. When all the propert~es of \na color-group are no longer mortgaged, the owner may begin to buy \nback houses at full price. The player who mortgages property retains possession of it and \nno other player may secure it by lifting the mortgage from the Bank.",
+            "predicted": "There is no mention of mortgages or penalties related to lifting a mortgage in the provided context. The text appears to be about various topics such as Monopoly rules, bots, mobile devices, and laptop security, but does not address mortgage-related issues.",
+            "scores": {
+                "BLEU": 1.1962130675223002e-155,
+                "ROUGE-1": 0.0011930326890956812,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0011930326890956812,
+                "Cosine Similarity": 0.5026220083236694
+            }
+        },
+        {
+            "question": "What happens if a player is declared bankrupt and owes money to both another player and the bank?",
+            "ground_truth": "However, the owner may sell this mortgaged property to another player \nat any agreed price. If you are the new owner, you may lift the mortgage \nat once if you wish by paying off the mortgage plus \n10% interest to the Bank. If the mortgage is not lifted \nat once, you must pay the Bank 10% interest when \nyou buy the property and if you lift the \nmortgage later you must pay the Bank \nan additional 10% interest as well \nas the amount of the mortgage. n \n\nBANKRUPTCY.. You are declared bankrupt if you owe more than you \ncan pay either to another player or to the Bank.",
+            "predicted": "The provided context does not mention anything about a player being declared bankrupt or owing money to other players or the bank. The context only discusses the rules of the board game \"JAIL\" in Monopoly, mobile devices, laptops, and security measures for laptops. Therefore, I cannot provide an answer to your question based on the given context.",
+            "scores": {
+                "BLEU": 1.8658070493721746e-155,
+                "ROUGE-1": 0.001267293272784877,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.001267293272784877,
+                "Cosine Similarity": 0.49262163043022156
+            }
+        },
+        {
+            "question": "What happens if a player mortgages their property in a game?",
+            "ground_truth": "If your \n, \ndebt is to another player, you must tum over to that \nplayer all that you have of value and retire from the \ngame. In making this settlement, if you own houses or \nhotels, you must retum these to the Bank in exchange \nfor money to the extent of one-half the amount paid \nfor them; this cash is given to the creditor. If you have \nmortgaged property you also turn this property over \nto your creditor but the new owner must at once pay . the Bank the amount of interest on the loan, which is 10% of the value of \nthe property.",
+            "predicted": "There is no mention of mortgaging properties in the provided context. The text appears to be discussing rules for playing Monopoly, mobile devices, computers, and laptop security, but it does not cover the topic of mortgaging properties.",
+            "scores": {
+                "BLEU": 2.090716087036105e-232,
+                "ROUGE-1": 0.0004783544606553456,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0004783544606553456,
+                "Cosine Similarity": 0.35778936743736267
+            }
+        },
+        {
+            "question": "If a player is unable to pay their debts due to taxes or penalties, should they automatically surrender all of their assets to the Bank if they owe more than they can pay?",
+            "ground_truth": "The new owner who does this may then, at hislher option, \npay the principal or hold the property until some later turn, then lift the \nmortgage. If helshe holds property in this way until a later turn, helshe \nmust pay the interest again upon lifting the mortgage. Should you owe the Bank, instead of another player, more than you \ncan pay (because of taxes or penalties) even by selling off buildings \nand mortgaging property, you must turn over all assets to the Bank. In \nthis case, the Bank immediately sells by auction all property so taken, \nexcept buildings.",
+            "predicted": "There is no information in the provided context about players owing taxes or penalties and being unable to pay them. The context appears to be related to a board game (likely Monopoly) and mobile devices, with one section mentioning laptops and theft prevention. Therefore, there is no relevant answer to this question based on the given context.",
+            "scores": {
+                "BLEU": 1.7604245136233892e-155,
+                "ROUGE-1": 0.0011696590443885607,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0011696590443885607,
+                "Cosine Similarity": 0.20238855481147766
+            }
+        },
+        {
+            "question": "What are the consequences when a player is declared bankrupt in this game?",
+            "ground_truth": "A bankrupt player must immediately retire from the \ngame. The last player left in the game wins. MISCEUANEOUS: Money can be loaned to a player only by the Bank \nand then only by mortgaging property. No player may borrow from or \nlend money to another player. L \nWe will be happy to hear your questions or comments about this game. Write to: Hasbro \nGames, Consumer Affairs Dept., P.O. Box 200, Pawtucket, RI 02862. Tel: 888-836-7025 \n(toll free). Canadian consumers please write to: Hasbro Canada Corporation, 2350 de la \nProvince, Longueuil, QC Canada, J4G 1G2.",
+            "predicted": "There is no mention of bankruptcy in the provided context. The only consequences mentioned related to financial penalties are:\n\n* Paying rent or taxes\n* Drawing a Chance or Community Chest card, which may result in paying money or taking other actions\n* Being sent to Jail and losing the opportunity to collect their $200 salary\n\nHowever, there is no mention of bankruptcy, which implies that players cannot go bankrupt in this game.",
+            "scores": {
+                "BLEU": 3.172810081263987e-155,
+                "ROUGE-1": 0.0012664085141618567,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0012664085141618567,
+                "Cosine Similarity": 0.5716086626052856
+            }
+        },
+        {
+            "question": "What is the purpose of the trademark notice and proof of purchase documentation provided by Hasbro?",
+            "ground_truth": "The HASBRO, PARKER BROTHERS, and MONOPOLY names and logos, the distinctive design of \nthe gameboard, the four comer squares, the MR. MONOPOLY name and character, and each of the \ndistinctive elements of the board and rules are trademarks of Hasbro for its property trading game \nand game equipment. 02004,2007 Hasbro, Pawtucket, RI 02862. All Rights Reserved. TM & @3 denote U.S. Trademarks. 00009-1 \nPROOF OF PURCHASE I",
+            "predicted": "There is no mention of a trademark notice or proof of purchase documentation provided by Hasbro in the given context. The text appears to be about cybersecurity, email headers, hardware attacks, and business regulations, but does not mention Monopoly (the game implied by \"Get Out of Jail Free\" card) or Hasbro at all.",
+            "scores": {
+                "BLEU": 8.719519551136303e-232,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.6973068118095398
+            }
+        }
+    ],
+    "overall_scores": {
+        "BLEU": [
+            0.043684977443460574,
+            2.297475620864806e-232,
+            0.10442040751875402,
+            0.048898439653751055,
+            1.0038495524303922e-155,
+            2.566703101393318e-155,
+            2.091650145515608e-155,
+            1.0341285545842492e-78,
+            0.2606227899801266,
+            4.123022700860876e-79,
+            0.05066966659385442,
+            2.195434253070341e-155,
+            2.578818944593805e-155,
+            7.309145928654386e-79,
+            0.001849137018084159,
+            3.789169501734571e-155,
+            3.2099412265470534e-232,
+            2.1105480255093632e-155,
+            2.235592193490696e-155,
+            1.832511468642244e-232,
+            0.3686452695537231,
+            2.9967271759462814e-232,
+            1.1962130675223002e-155,
+            1.8658070493721746e-155,
+            2.090716087036105e-232,
+            1.7604245136233892e-155,
+            3.172810081263987e-155,
+            8.719519551136303e-232
+        ],
+        "ROUGE-1": [
+            0.0010420134014501353,
+            0.0035024655514078987,
+            0.00044797849703214247,
+            3.610499332057624e-05,
+            0.00103541999223435,
+            0.0013755158184319122,
+            0.001278136760633388,
+            0.0,
+            0.0012768256150861856,
+            0.001083790557474768,
+            0.0,
+            0.0011665208515602217,
+            0.0,
+            0.001414963236223059,
+            0.0005621767483696875,
+            0.00109080992637033,
+            0.00048319182715538065,
+            0.0,
+            0.0010445162894802287,
+            0.0012486193151803292,
+            0.0008770926286084733,
+            0.0007341521953974304,
+            0.0011930326890956812,
+            0.001267293272784877,
+            0.0004783544606553456,
+            0.0011696590443885607,
+            0.0012664085141618567,
+            0.0
+        ],
+        "ROUGE-2": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "ROUGE-L": [
+            0.0010420134014501353,
+            0.0035024655514078987,
+            0.00044797849703214247,
+            3.610499332057624e-05,
+            0.00103541999223435,
+            0.0013755158184319122,
+            0.001278136760633388,
+            0.0,
+            0.0012768256150861856,
+            0.001083790557474768,
+            0.0,
+            0.0011665208515602217,
+            0.0,
+            0.001414963236223059,
+            0.0005621767483696875,
+            0.00109080992637033,
+            0.00048319182715538065,
+            0.0,
+            0.0010445162894802287,
+            0.0012486193151803292,
+            0.0008770926286084733,
+            0.0007341521953974304,
+            0.0011930326890956812,
+            0.001267293272784877,
+            0.0004783544606553456,
+            0.0011696590443885607,
+            0.0012664085141618567,
+            0.0
+        ],
+        "Cosine Similarity": [
+            0.46826696395874023,
+            0.46034371852874756,
+            0.5880210399627686,
+            0.7016185522079468,
+            0.6460739970207214,
+            0.5521082878112793,
+            0.5556659698486328,
+            0.27700141072273254,
+            0.5346860885620117,
+            0.5414794683456421,
+            0.5604838132858276,
+            0.5796535611152649,
+            0.5048352479934692,
+            0.5928506851196289,
+            0.6599697470664978,
+            0.7055771350860596,
+            0.4159781336784363,
+            0.4920423626899719,
+            0.5038536190986633,
+            0.4419655203819275,
+            0.8085594773292542,
+            0.4122965335845947,
+            0.5026220083236694,
+            0.49262163043022156,
+            0.35778936743736267,
+            0.20238855481147766,
+            0.5716086626052856,
+            0.6973068118095398
+        ]
+    },
+    "average_scores": {
+        "BLEU": 0.031385381705776934,
+        "ROUGE-1": 0.0008955372209465292,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0008955372209465292,
+        "Cosine Similarity": 0.5295595846005848
+    }
+}

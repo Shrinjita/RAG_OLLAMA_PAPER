@@ -1,0 +1,856 @@
+{
+    "results": [
+        {
+            "question": "What are the specific laws that govern medical practice and hospitals within India's universal healthcare system?",
+            "ground_truth": "Laws Applicable to Medical Practice and Hospitals in India\nInternational Journal of Research Foundation of Hospital & Healthcare Administration, July-December 2013;1(1):19-24\n19\nJRFHHA\nLaws Applicable to Medical Practice and Hospitals in India\n1Madhav Madhusudan Singh, 2Uma Shankar Garg, 3Pankaj Arora\nABSTRACT \nHealthcare in India features a universal healthcare care system \nrun by the constituent states and territories. Law is an obligation \non the part of society imposed by the competent authority, and \nnoncompliance may lead to punishment in the form of monetary \nfine or imprisonment or both.",
+            "predicted": "The specific laws mentioned in the context as governing medical practice and hospitals in India include:\n\n1. Indian Penal Code (IPC) sections related to offences affecting life, such as murder, simply hurt, grievous hurt, and miscarriage or abortion.\n2. Medical Act of the state\n3. MTP (Medical Termination of Pregnancy) Act\n4. PCPNDT (Pre-Conception and Pre-Natal Diagnostic Techniques) Act\n5. Transplantation of Human Organ Act\n\nAdditionally, the context mentions that various sections of the Indian Penal Code, the Code of Criminal Procedure, and other acts are applicable to medical practice related to different areas such as medicolegal aspects, employment, and management of manpower.\n\nIt does not specifically mention a universal healthcare system in India, but rather highlights laws governing medical practice and hospitals within the country.",
+            "scores": {
+                "BLEU": 1.033143260551428e-78,
+                "ROUGE-1": 0.0017348137076972352,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0017348137076972352,
+                "Cosine Similarity": 0.7707897424697876
+            }
+        },
+        {
+            "question": "What are some notable milestones in the development of medical ethics codes throughout history?",
+            "ground_truth": "The earliest known code of laws \ncalled the code of Hammurabi governed the various aspects \nof health practices including the fees payable to physician for \nsatisfactory services. The first ever code of medical ethics called \nthe Hippocratic oath was laid down 2500 years ago, in the 5th \ncentury BC, by Hippocrates\u2014the Greek physician. The modern \nversion of Hippocratic Oath (called the declaration of Geneva), \ndevised by the WHO after the second world war and is accepted \nby international medical fraternity.",
+            "predicted": "There is no mention of medical ethics codes or their development in the provided context. The text appears to be about various unrelated topics, including a board game called \"JAIL\", mobile devices and technology, bots, and cybercrime. Therefore, I am unable to provide an answer to your question based on the given context.",
+            "scores": {
+                "BLEU": 9.470993827499573e-79,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.5736241340637207
+            }
+        },
+        {
+            "question": "When did the first legal recognition and registration for traditional Indian systems of medicine occur?",
+            "ground_truth": "The process of establishment \nof healthcare system during the colonial rule also necessitated \ncreation of legislative framework for practitioners of medicine. As the number of doctors qualified in Indian medical colleges \nincreased, creation of laws for them became necessary. The \nmedical council of India, a national level statutory body for the \ndoctors of modern medicine, was constituted after the enactment \nof Indian Medical Council Act 1933. The first legal recognition \nand registration for the Indian systems of medicine came when \nthe Bombay Medical Practitioner\u2019 Act was passed in 1938.",
+            "predicted": "There is no information provided in the given context about the first legal recognition and registration for traditional Indian systems of medicine. The text only discusses laws related to modern medical practice, hospitals, employment, and management of manpower in India, but does not mention traditional Indian systems of medicine.",
+            "scores": {
+                "BLEU": 0.06672700346888545,
+                "ROUGE-1": 0.0013994402239104358,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0013994402239104358,
+                "Cosine Similarity": 0.7488197088241577
+            }
+        },
+        {
+            "question": "What are some of the key areas of law that govern various aspects of hospital operation beyond just commissioning and registration?",
+            "ground_truth": "Laws governing the commissioning of hospital are the laws \nto ensure that the hospital facilities are created after due process \nof registration, the facilities created are safe for the public using \nthem, have at least the minimum essential infrastructure for \nthe type and volume of workload anticipated and are subject to \nperiodic inspections to ensure compliance. There are other laws \npertaining to governing to the qualification/practice and conduct \nof professionals, sale, storage of drugs and safe medication, \nmanagement of patients, environmental safety, employment \nand management of manpower, medicolegal aspects and laws \npertaining to safety of patients, public and staff within the hospital \npremises.",
+            "predicted": "There is no mention of hospitals or healthcare in the provided context. The text appears to be about cybersecurity, regulations, and technology (specifically, mobile devices).",
+            "scores": {
+                "BLEU": 5.379811252103249e-233,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.44560617208480835
+            }
+        },
+        {
+            "question": "What are the key laws and regulations that a hospital administrator should be aware of to ensure compliance with healthcare standards and patient care?",
+            "ground_truth": "There are laws governing professional training and \nresearch, business aspects, licences/certifications required for \nhospitals, etc. A hospital administrator should be aware about \nall these laws, regulations, policies, procedures, reports and \nreturns and keep abreast with the latest amendments to be on \nthe safe side of law and provide quality care to the patients. Keywords: Healthcare, Law, Act, Code, Health practices, Medical \nethics, Hippocratic, Declaration of Geneva, Medical council of \nIndia, Statutory body, Indian systems of medicine, Commissioning \nof hospital, Conduct of professionals, Environmental safety, \nEmployment and management of manpower, Medicolegal \naspects, Patient safety, Professional training, Research.",
+            "predicted": "There is no mention of hospitals, healthcare standards, or patient care in the provided context. The text appears to discuss various topics such as alarm devices for laptops, warning labels, mobile computing, and policies for mobile devices. Therefore, I cannot provide an answer to the question based on the given context.",
+            "scores": {
+                "BLEU": 1.9614601722809197e-155,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.5679473876953125
+            }
+        },
+        {
+            "question": "How do I cite an article with no source support and a conflict of interest statement in the format of the Indian Journal of Research Foundation Hospital Health Care Administration?",
+            "ground_truth": "How to cite this article: Singh MM, Garg US,  Arora P. Laws \nApplicable to Medical Practice and Hospitals in India. Int J Res \nFoundation Hosp Healthc Adm 2013;1(1):19-24. Source of support: Nil\nConflict of interest: None\nINTRODUCTION \nHuman culture is built upon the formulation of values \nthat form the basis of an ethical society, honesty, integrity, \nrespect, pursuit of excellence, civic duty, accountability \nand loyalty. Since the dawn of civilization, by trial or error, \nit has become established that a society and more so it\u2019s \nmedical profession, a public oriented and noble profession, \ncan survive and thrive only by observance and practice of \ncertain rules of conduct guided by ethical, moral, legal and \nsocial values of land.",
+            "predicted": "There is no information about citing articles or the Indian Journal of Research Foundation Hospital Health Care Administration in the provided context. The text appears to be unrelated to academic publishing or citation formats, but rather discusses various topics such as board games (Monopoly), mobile devices and security, laptops, and warning labels.\n\nIf you have any specific questions related to one of these topics, I'll do my best to help. However, if you're looking for information on citing articles with no source support and a conflict of interest statement in the format of the Indian Journal of Research Foundation Hospital Health Care Administration, I'm afraid I won't be able to provide that information as it is not present in the provided context.",
+            "scores": {
+                "BLEU": 1.1592466907427538e-231,
+                "ROUGE-1": 0.001174307048057962,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.001174307048057962,
+                "Cosine Similarity": 0.530136227607727
+            }
+        },
+        {
+            "question": "What proportion of doctors surveyed in Mumbai believe that the laws governing their practice in India are outdated?",
+            "ground_truth": "Healthcare in Indian features a universal healthcare \ncare system run by the constituent states and territories. The constitution charges every state with \u2018raising the level \nof nutrition and the standard of living of its people and \nimprovement of public health as among its primary duties. Law \nis an obligation on the part of society imposed by the competent \nauthority, and noncompliance may lead to punishment in the \nform of monetary fine or imprisonment or both. In a survey conducted at Mumbai, eight out of 10 doctors \nfeel that the laws that govern the practice of healthcare in \nIndia are outdated and even higher majority feels that there \nare too many laws and licences that are required to keep \ntheir practice going.",
+            "predicted": "There is no information about a survey of doctors in Mumbai or any discussion about the laws governing medical practice in India. The provided text appears to be unrelated to medicine or law, and instead discusses topics such as a board game called \"JAIL\", mobile devices, computing, and security policies. Therefore, I cannot provide an answer to your question.",
+            "scores": {
+                "BLEU": 1.7149045793951492e-155,
+                "ROUGE-1": 0.0011336326123429917,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0011336326123429917,
+                "Cosine Similarity": 0.68082594871521
+            }
+        },
+        {
+            "question": "How many different laws govern the practice of healthcare in India, according to a recent survey among 297 doctors?",
+            "ground_truth": "A survey among 297 doctors across \nspecializations says that there are about 50 different laws \nthat govern the practice of healthcare in India. The study \nconducted by Medscape India, a nonprofit trust of doctors, \nrevealed that 78% of doctors feel that many of the laws that \ngovern medical practice are outdated. Licences have to be \nprocured by doctors running a hospital every year.1\nMEDICAL LAWS IN INDIA \nThe earliest civilization known to us is the Indus urban culture \nof 3000 to 2000 BC. The renowned medical historian Henry \nSigerist 2 believed that public health facilities of Mohenjo \nDaro were superior to those of any other community of the \nancient orient.",
+            "predicted": "There is no mention of the number of laws governing the practice of healthcare in India in the provided context. The text appears to be unrelated to healthcare and instead discusses topics such as a board game (Monopoly), mobile devices, and IT policies.",
+            "scores": {
+                "BLEU": 0.024861299204894605,
+                "ROUGE-1": 0.001207729468599034,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.001207729468599034,
+                "Cosine Similarity": 0.6566650867462158
+            }
+        },
+        {
+            "question": "What are the traditional duties and responsibilities associated with a sacred medical profession?",
+            "ground_truth": "Since the ancient times, certain duties and \nresponsibilities have been cast on persons who adopt this \n1,2Medical Officer (Hospital Services), 3Assistant Professor\n1Ministry of Defence, L Block, New Delhi, India \n2Military Hospital, Panaji, Goa, India\n3Department of Hospital Administration, Postgraduate Institute \nof Medical Education and Research, Chandigarh, India\nCorresponding Author: Madhav Madhusudan Singh, 543 \nAFNO Enclave, Plot 11, Sector 7, Dwarka, New Delhi-110075 \nIndia, e-mail: mmsingh2011@gmail.com\nJRFHHA\nLEGAL AND ETHICAL ISSUES\n10.5005/jp-journals-10035-1004\n\nMadhav Madhusudan Singh et al\n20\nsacred profession.",
+            "predicted": "Unfortunately, there is no direct answer to this question within the provided context. The text appears to be a collection of unrelated excerpts from different sources, including information about a board game (Monopoly), mobile devices, and medical history in India.\n\nHowever, based on the section about medical history in ancient India, it can be inferred that the traditional duties and responsibilities associated with a sacred medical profession include:\n\n* Providing medical care at state expense\n* Having well-defined medical ethics\n* Being governed by a code of conduct (such as the Charaka-Samhita)\n\nPlease note that this is an indirect answer based on a specific section of the provided context, and not a direct answer to the original question.",
+            "scores": {
+                "BLEU": 7.752610771488707e-79,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.7092881202697754
+            }
+        },
+        {
+            "question": "When did the first written codes of laws related to health practices appear?",
+            "ground_truth": "This is exemplified by Charak\u2019s Oath \n(1000 BC) and Hippocratic Oath (460 BC). The written \nevidence of the state\u2019s involvement and regulatory function \nis available from the Kautilya\u2019s Arthashastra. Kautilya \nconsidered famine as a bigger calamity than pestilence and \nepidemics, as the remedies can be found for the diseases. He believed that the king should order the physician to use \nmedicine to counter epidemics.3 \nThe earliest known code of laws of health practices were \nthe laws formulated around 2000 BC by Hammurabi, the \ngreat king of Babylon.",
+            "predicted": "There is no mention of \"written codes of laws related to health practices\" in the provided context. The text appears to be a collection of unrelated topics, including:\n\n* A description of how to play Monopoly (specifically, rules for landing in and escaping from Jail)\n* Information about bots\n* Descriptions of mobile devices and computing technology\n* Discussion of security models, specifically the CIA Triad\n\nThere is no mention of laws or health practices.",
+            "scores": {
+                "BLEU": 3.114363864867554e-155,
+                "ROUGE-1": 0.0010866343969179097,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0010866343969179097,
+                "Cosine Similarity": 0.48236751556396484
+            }
+        },
+        {
+            "question": "What were some of the drastic penalties and stringent laws that governed physicians' practices during the time of Hammurabi?",
+            "ground_truth": "These laws, also called the code of \nHammurabi governed the various aspects of health practices, \nincluding the fees payable to physician for satisfactory \nservices. The laws were drastic and penalties for harmful \ntherapy stringent. Doctors whose proposed therapy proved \nwrong ran the risk of being killed. This was the first \ncodification of medical practice. The first ever code of medical ethics called the \nHippocratic oath was laid down 2500 years ago, in the 5th \ncentury BC, by Hippocrates\u2014the Greek physician.",
+            "predicted": "There is no mention of physicians or the Code of Hammurabi in the provided context. The text appears to be about various topics such as a board game (JAIL), mobile devices, laptop security measures, and warning labels, but does not discuss physicians' practices during the time of Hammurabi.",
+            "scores": {
+                "BLEU": 2.459577988187888e-155,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.6143593788146973
+            }
+        },
+        {
+            "question": "What was the significance of medical care in ancient India during the Ashoka period?",
+            "ground_truth": "He is \nremembered till today as the \u2018Father of western medicine\u2019. Hippocratic oath has been guiding and regulating the conduct \nof doctors for centuries. The modern version of Hippocratic \nOath (called the declaration of Geneva), devised by the WHO \nafter the second world war and accepted by international \nmedical fraternity as the international code of medical ethics, \ndraws heavily upon the ancient oath. During the Ashoka period (270 BC), the state showed \ninterest in the public works and provision of medical care \nand as a law.",
+            "predicted": "There is no mention of the Ashoka period or medical care in ancient India in the provided context. The references (4-8) appear to be related to various topics such as computer security, games, and technology, but none of them discuss medical care in ancient India during the Ashoka period.\n\nIf you'd like, I can try to help with a different question or topic!",
+            "scores": {
+                "BLEU": 1.1019093389397188e-78,
+                "ROUGE-1": 0.0012191209496310556,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0012191209496310556,
+                "Cosine Similarity": 0.5700347423553467
+            }
+        },
+        {
+            "question": "What factors influenced the establishment of a legislative framework for practitioners of medicine in India during the colonial period?",
+            "ground_truth": "He founded hospitals all over his empire with \nmedical attendance at state expense.4 Ethics is described in \nthe Charaka\u2014Samhita, in details and Ayurvedic physicians \nof ancient India has a well-defined medical ethics\u201d.5 \nThe colonial power brought with them their own \nphysicians and barber surgeons. In the mid 19th century, as \nthe medicine got recognized in England, it slowly started \nhaving its impact in India too. After 1857, the main factors \nthat shaped colonial health policy in India were their concern \nfor troops and European civil population.6\nThe process of establishment of healthcare system \nalso necessitated creation of legislative framework for \npractitioners of medicine.",
+            "predicted": "There is no mention of the establishment of a legislative framework for practitioners of medicine in India during the colonial period in the provided context. The text appears to be unrelated to this topic and discusses various other subjects, including board games (specifically Monopoly), computer technology, mobile devices, and policies for managing them.",
+            "scores": {
+                "BLEU": 0.0416870697551257,
+                "ROUGE-1": 0.000965561635017702,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.000965561635017702,
+                "Cosine Similarity": 0.6375499963760376
+            }
+        },
+        {
+            "question": "What disciplinary measures were introduced in Indian medical services under the British rule, following instances of misconduct and malpractice among physicians and surgeons brought over by the East India Company?",
+            "ground_truth": "In the earlier period of rule, the \nphysicians and surgeons brought by the East India company \nand after 1857 by the British Government, needed some \ndiscipline and regulations. Lt Colonel DG. Crawfords \u2018A \nhistory of Indian medical services, 1600-1913\u2019 narrates \nseveral instances of in-discipline, insubordination, \nmalpractice, etc. by such doctors and the punishments \n(including deportation) mated out to them. It also narrates \nthe regulation devised by the East India Company for the \nhospitals established by them.",
+            "predicted": "There is no mention of the Indian medical services under the British rule or any disciplinary measures introduced regarding misconduct and malpractice among physicians and surgeons in the provided context. The text appears to be about various topics unrelated to this question, such as board games (specifically Monopoly), mobile devices, computer software, and cybersecurity policies.",
+            "scores": {
+                "BLEU": 1.1449947765124445e-78,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.6713293790817261
+            }
+        },
+        {
+            "question": "When were laws specifically created for Indian medical professionals to regulate their conduct and practices?",
+            "ground_truth": "After the enactment of the law, establishing General \nMedical Council in 1857 in England, the British doctors \nemployed in India were registered with the GMC and came \nunder its disciplinary regulation. As the number of doctors \nqualified in Indian medical colleges increased, creation of \nlaws for them became necessary. As a part of criminal procedures and for other purposes, \nthe colonial government had, in 1871, enacted Coroner\u2019s \nact applicable to Bombay and Calcutta. It defined the \nrole of medical professionals in the work of conducting \nautopsy and inquests.",
+            "predicted": "Unfortunately, there is no information in the provided context about laws specifically created for Indian medical professionals to regulate their conduct and practices. The text only mentions the enactment of new laws, modification of colonial laws, and the development of case laws related to healthcare entitlements, but it does not provide specific details about regulations or laws targeting medical professionals.",
+            "scores": {
+                "BLEU": 1.108200044068413e-78,
+                "ROUGE-1": 0.0016153784023907598,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0016153784023907598,
+                "Cosine Similarity": 0.6127299070358276
+            }
+        },
+        {
+            "question": "When were the laws for indigenous medical councils finally enacted?",
+            "ground_truth": "However, the laws for the creation \nof indigenous medical councils took many more years for \nenactment. Mean-while, the laws were enacted for the the \nprevention of the spread of dangerous epidemic disease, \nfor the segregation and medical treatment of pauper, etc. The epidemic disease act was first enacted in 1807 and is \nstill in force with amendments, while the Lepers Act 1898 \nwas repealed and substituted by another law in early 1980s. Grant Medical College Society in 1880 passed a Bombay \nMedical Act and established the medical council.",
+            "predicted": "There is no mention of the enactment of laws for indigenous medical councils in the provided context. The text mentions laws related to healthcare, patient safety, and cyber security, but not specifically about indigenous medical councils.",
+            "scores": {
+                "BLEU": 5.573105998614471e-79,
+                "ROUGE-1": 0.0012243360331512527,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0012243360331512527,
+                "Cosine Similarity": 0.6275951266288757
+            }
+        },
+        {
+            "question": "When did the Indian Medical Degree Act and the Indian Medical Council Act come into effect?",
+            "ground_truth": "The draft \nrule of this act included the appointment of a registrar, \nmaintenance of name in register and penalty for doing wrong \nthings. The Bombay Presidency enacted Bombay Medical \nAct in 1912. Medical acts in some other provinces soon \nfollowed. The Bengal Medical Act and Madras Medical \nRegistration Act were enacted in 1914. These provincial acts were immediately followed by the \nIndian Medical Degree Act, passed by the Indian Legislative \nCouncil and approved by the Governor General in 1916. The Medical Council of India, a national level statutory \nbody for the doctors of modern medicine, was constituted \nafter the enactment of Indian Medical Council Act 1933.",
+            "predicted": "Unfortunately, I couldn't find any information about when the \"Indian Medical Degree Act\" came into effect. However, I can answer the question for the \"Indian Medical Council Act 1956\", which is mentioned in Table 2 as one of the laws governing the qualification/practice and conduct of professionals.\n\nAccording to the context, the Indian Medical Council Act 1956 was enacted, but there is no specific date mentioned when it came into effect.",
+            "scores": {
+                "BLEU": 0.04028025583112018,
+                "ROUGE-1": 0.0010564124234100994,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0010564124234100994,
+                "Cosine Similarity": 0.7285792827606201
+            }
+        },
+        {
+            "question": "What triggered the first legal recognition and registration for Indian systems of medicine in 1938?",
+            "ground_truth": "The \nfirst legal recognition and registration for the Indian systems \nof medicine came when the Bombay Medical Practioner Act \nwas passed in 1938. Post 1947 Developments \nThe independence in 1947 inaugurated a new phase of \ndevelopment of organized health care services creating more \nentitlement for the people. Along with that, the state also \nembarked on enactment of new laws, modification of the \ncolonial laws and judiciary developed case laws to consolidate \npeople\u2019s entitlement of health care and to extent the rights.",
+            "predicted": "There is no mention of \"What triggered the first legal recognition and registration for Indian systems of medicine in 1938?\" in the provided context. The text only discusses the history of medical ethics, ancient India's approach to public health, and colonial health policy in India, but does not address the specific question about 1938.\n\nHowever, based on general knowledge, I can provide some information that might be relevant: The Indian Medical Council Act was passed in 1933 (not 1938), which led to the first legal recognition and registration of medical practitioners in India. This act established the All-India Institute of Medical Sciences (AIIMS) and the Central Council of Indian Medicine (CCIM) for Ayurveda, Unani, Siddha, and Homeopathy systems of medicine.\n\nBut please note that this information is not directly mentioned in the provided context.",
+            "scores": {
+                "BLEU": 0.08582398021693088,
+                "ROUGE-1": 0.0013560279680768417,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0013560279680768417,
+                "Cosine Similarity": 0.8091021776199341
+            }
+        },
+        {
+            "question": "What are the prerequisites for a medical professional to practice in India?",
+            "ground_truth": "At the time of independence and the first few years of \nplanning, the task confronting the country was to create \nphysical and institutional infrastructure for the rapid \ndevelopment or modernization of India. With time, the parliament has passed a large number \nof bills and acts to strengthen the healthcare delivery in \nIndia. Laws Applicable to Medical Practice and Hospitals in India\nInternational Journal of Research Foundation of Hospital & Healthcare Administration, July-December 2013;1(1):19-24\n21\nJRFHHA\nPrerequisites of Medical Practice \nA duly qualified medical professional, i.e.",
+            "predicted": "There is no information provided about the prerequisites for a medical professional to practice in India. The text only discusses various topics such as board games, mobile devices, and laptop security.",
+            "scores": {
+                "BLEU": 7.958129588701597e-156,
+                "ROUGE-1": 0.0014992503748125939,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0014992503748125939,
+                "Cosine Similarity": 0.6490980386734009
+            }
+        },
+        {
+            "question": "Does a state medical council have the authority to remove a registered doctor from its register due to being found guilty of nonbailable offenses?",
+            "ground_truth": "a doctor has a \nright to seek to practice medicine, surgery and dentistry \nby registering himself with the medical council of the state \nof which he is resident, by following the procedure as \nprescribed under the medical act of the state. The state medical council has the power to warn, refuse \nto register/remove from the name of a doctor who has been \nsentenced by any court for any nonbailable offence or found \nto be guilty of infamous conduct in any professional respect. The state medical council has also the power to re-enter the \nname of the doctor in the register.",
+            "predicted": "There is no mention of a state medical council or doctors in the provided context. The text appears to be about a Monopoly-style game, digital signatures, hacking, and mobile devices, but does not address the authority of a state medical council to remove a registered doctor from its register due to nonbailable offenses.",
+            "scores": {
+                "BLEU": 1.1239880728207442e-78,
+                "ROUGE-1": 0.0012319063751154912,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0012319063751154912,
+                "Cosine Similarity": 0.7404954433441162
+            }
+        },
+        {
+            "question": "What are the protections afforded to medical practitioners regarding offences and professional misconduct under Indian law?",
+            "ground_truth": "The provision regarding offences and professional \nmisconduct which may be brought before the appropriate \nmedical council (state/medical Council of India) have been \nstated in the Indian Medical council (Professional conduct, \netiquette and ethics) Regulation 2002. No action against a \nmedical practitioner can be taken unless an opportunity has \nbeen given to him to be heard in person or through an advocate.7 \nEmergency Healthcare and Laws\nThe supreme court has been emphatic in declaring that the \nfundamental right to life covered within its scope the right to \nemergency healthcare.",
+            "predicted": "According to the provided text, the following laws govern the qualification, practice, and conduct of professionals in India, specifically in the medical field:\n\n1. The Indian Medical Council Act 1956\n2. Indian Medical Council (Professional Conduct, Etiquette, and Ethics Regulations) 2002\n\nThese laws provide for the registration of medical practitioners, verification of their credentials, and consequences for professional misconduct, including penalties such as fines and imprisonment.",
+            "scores": {
+                "BLEU": 3.2789814858355315e-155,
+                "ROUGE-1": 0.0012426934229299949,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0012426934229299949,
+                "Cosine Similarity": 0.7569243907928467
+            }
+        },
+        {
+            "question": "What was the landmark Supreme Court case decision in 1989 that ruled on the obligations of medical professionals during emergencies?",
+            "ground_truth": "The landmark judgment that marked \nthis momentous event is that of Parmanand Katara V, Union \nof India (Supreme Court 1989). In this case, a scooterist \nseverely injured in a road accident was refused for admission \nwhen taken to nearest hospital on the excuse that hospital \nwas not competent to handle medicolegal cases. The supreme \ncourt, in its judgment, pronounced that the obligation of \nmedical professionals to provide treatment in cases of \nemergencies overrode the professional freedom to refuse \npatients.",
+            "predicted": "There is no mention of a landmark Supreme Court case decision in 1989 regarding the obligations of medical professionals during emergencies in the provided context. The context appears to be about different topics such as board games, mobile devices, and laptop security, but does not include any information related to a Supreme Court case or medical professionals.",
+            "scores": {
+                "BLEU": 9.935343993831372e-79,
+                "ROUGE-1": 0.001574048727073638,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.001574048727073638,
+                "Cosine Similarity": 0.5507618188858032
+            }
+        },
+        {
+            "question": "Does the state's obligation under Article 21 of the Constitution extend to private hospitals as well?",
+            "ground_truth": "According to the right to emergency treatment, the \nstatus of a fundamental right under Article 21 (fundamental \nright of life), the court categorically stated that \u2018Article 21 \nof constitution casts the obligation on the state to preserve \nlife. Interestingly, the supreme court went on to say that not \nonly government hospitals but also \u2018every doctor whether \nat a government hospital or otherwise has the professional \nobligation to extend his/her service with due expertise for \nprotecting life. In another case (Paschim Banga Khet Majdoor Samity \nvs State of West Bengal, Supreme Court, 1996), a person \nsuffering from head injuries from a train accident was \nrefused treatment at various hospital on excuse that they \nlacked the adequate facilities and infrastructure to provide \ntreatment.",
+            "predicted": "There is no mention of Article 21 of the Constitution or the state's obligations in relation to private hospitals in the provided context. The text appears to be discussing cyber laws, laptop theft prevention measures, and mobile device policies, but does not address constitutional law or the rights of individuals under Article 21.",
+            "scores": {
+                "BLEU": 1.5250600405979056e-155,
+                "ROUGE-1": 0.0007393897569872331,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0007393897569872331,
+                "Cosine Similarity": 0.49077335000038147
+            }
+        },
+        {
+            "question": "What is the role of criminal liability in shaping individual behavior within the medical profession?",
+            "ground_truth": "In this case, supreme court further developed \nthe right to emergency treatment, and went on to state \nthat the failure on the part of government hospital to \nprovide timely medical treatment to a person in need of \nsuch treatment results in violation of his/her right to life \nguaranteed under Article 21. Criminal Liability in Medical Profession \nCriminal law tries to mold the individual behavior in a \nsocially accepted manner. It tries to enforce the rules of \nsocial mortality to a great extent. Criminal law defines certain \ntypes of human conduct as offences and prescribes the \npunishment for them.",
+            "predicted": "There is no mention of medical profession or criminal liability in the provided context. The text discusses various unrelated topics such as a board game called \"JAIL\", bots, mobile computing, and mobile devices policies. Therefore, it is not possible to answer the question based on the given context.",
+            "scores": {
+                "BLEU": 1.421486266190023e-155,
+                "ROUGE-1": 0.0008709925965629292,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0008709925965629292,
+                "Cosine Similarity": 0.607303261756897
+            }
+        },
+        {
+            "question": "Can doctors be held criminally liable in certain circumstances despite their role in preventing greater harm to patients?",
+            "ground_truth": "Remission by doctors in their duties \nand obligations and lapses left by them may give to criminal \nliabilities, the liabilities of being prosecuted in a criminal \ncourt and awarded punishment as per provision of law. The criminal law operates on a doctor in somewhat a \ndifferent manner than an ordinary persons. This is because it \nallows a doctor to cause injury to the patient for preventing \na greater harm. The crucial area of criminal law for a doctor \nis offences affecting life. These offences are mainly murder , \nsimply hurt, grievous hurt and miscarriage or abortion.",
+            "predicted": "There is no information provided about doctors or medical professionals, nor is there any discussion about criminal liability. The text appears to be a collection of unrelated passages about various topics such as board games (specifically Monopoly), mobile devices, and laptop security measures. Therefore, I am unable to answer the question based on the provided context.",
+            "scores": {
+                "BLEU": 6.4161393452426944e-232,
+                "ROUGE-1": 0.0017162154680839285,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0017162154680839285,
+                "Cosine Similarity": 0.591484546661377
+            }
+        },
+        {
+            "question": "What laws govern the commissioning of a hospital in India?",
+            "ground_truth": "A doctor \nmay be charged for any of these offences in general. However, \nthe criminal law arms a doctor with three formidable defences \nnamely: (1) informed consent, (2) necessity and (3) good faith. Various criminal liabilities in medical practice related \nto different sections of Indian Penal Code, the code of \ncriminal procedure and different acts like MTP, PCPNDT, \nTransplantation of Human Organ Act, etc. LAWS APPLICABLE TO HOSPITALS \nLaws Governing the Commissioning of Hospital\nThese are the laws to ensure that the hospital facilities are \ncreated after due process of registration, the facilities created \nare safe for the public using them, have at least the minimum \nessential infrastructure for the type and volume of workload \nanticipated, and are subject to periodic inspections to ensure \ncompliance.",
+            "predicted": "The Indian Medical Council Act 1956 and the Indian Medical Council (Professional Conduct, Etiquette, and Ethics Regulations 2002). These laws are listed in Table 2 under \"Laws governing to the qualification/practice and conduct of professionals\".",
+            "scores": {
+                "BLEU": 1.0654409500388019e-232,
+                "ROUGE-1": 0.0011627155868483947,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0011627155868483947,
+                "Cosine Similarity": 0.622623860836029
+            }
+        },
+        {
+            "question": "What is the purpose of the Draft Delhi Lifts and Escalators Bill 2007?",
+            "ground_truth": "These are listed in Table 1 below:\nTable 1: Laws governing the commissioning of hospital8\n1. Atomic Energy Act 1962\n2. Delhi Lift Rules 1942, Bombay Lift Act 1939\n3. Draft Delhi Lifts and Escalators Bill 2007\n4. Companies Act 1956 \n5. Indian Electricity Rules 1956\n6. Delhi Electricity Regulatory Commission (Grant of consent \nfor captive power plants) Regulations 2002\n7. Delhi Fire Prevention and Fire Safety Act 1986, and Fire \nSafety Rule 1987 \n8. Delhi Nursing Home Registration Act 1953\n9. Electricity Act 1998 \n10.",
+            "predicted": "There is no mention of the Draft Delhi Lifts and Escalators Bill 2007 in the provided context. The text appears to be discussing various laws and regulations related to medical practice, hospital administration, and cybersecurity, but not the Draft Delhi Lifts and Escalators Bill 2007.",
+            "scores": {
+                "BLEU": 0.05810919880974509,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.5962567925453186
+            }
+        },
+        {
+            "question": "What laws regulate the qualification and practice of professionals working in hospitals?",
+            "ground_truth": "Electricity Rules 1956\n11. Indian Telegraph Act 1885\n12. National Building Act 2005\n13. Radiation Protection Certificate from BARC \n14. Society Registration Act\n15. Urban Land Act 1976\n16. Indian Boilers Act 1923\n17. The Clinical Establishment (Registration and Regulation) \nBill 2007\n\nMadhav Madhusudan Singh et al\n22\nLaws Governing to the Qualification/Practice and \nConduct of Professionals\nThese are the regulations to ensure that staff employed in \nthe hospital for delivery of healthcare are qualified and \nauthorised to perform certain specified technical jobs within \nspecified limits of competence and in accordance with \nstandard codes of conduct and ethics, their credential are \nverifiable from the registering councils and in case of any \nprofessional misconduct the councils can take appropriate \naction against them.",
+            "predicted": "There is no information provided about laws regulating the qualification and practice of professionals working in hospitals. The provided text appears to be a collection of unrelated passages discussing topics such as:\n\n* A board game (Monopoly) and its rules\n* Bots and automated processes\n* Mobile computing and devices\n* Laptop security measures, including alarms and warning labels\n\nThere is no mention of healthcare or hospital professionals.",
+            "scores": {
+                "BLEU": 1.6108832555537888e-155,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.5362484455108643
+            }
+        },
+        {
+            "question": "What is the common thread among the listed laws regulating medical professionals and drug usage?",
+            "ground_truth": "These laws are listed in Table 2. Table 2: Laws governing to the qualification/practice and \nconduct of professionals\n1. The Indian Medical Council Act 1956 \n2. Indian Medical Council (Professional Conduct, Etiquette, \nand Ethics Regulations 2002)\n3. Indian Medical degree Act 1916\n4. Indian Nursing Council Act 1947\n5. Delhi Nursing Council Act 1997\n6. The Dentist\u2019s Act 1948\n7. AICTE Rules for Technicians 1987\n8. The Paramedical and Physiotherapy Central Councils \nBill 2007 \n9. The Pharmacy Act 1948\n10. The Apprenticeship Act 1961\nLaws Governing to Sale, Storage of Drugs and \nSafe Medication\nThese are laws to control the usage of drugs, chemicals, \nblood, blood products, prevent misuse of dangerous \ndrugs, regulate the sale of drugs through licences, prevent \nadulteration of drugs and provide for punitive action against \nthe offenders.",
+            "predicted": "There is no mention of laws regulating medical professionals and drug usage in the provided context. The context appears to be about digital security, computer laws, and mobile technology, with references to Indian penal code sections (66C) related to cybercrime and identity theft.",
+            "scores": {
+                "BLEU": 1.7778065888385765e-232,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.6797488927841187
+            }
+        },
+        {
+            "question": "What are the laws and regulations listed in Table 3 regarding the sale, storage of drugs, and safe medication?",
+            "ground_truth": "These are listed in Table 3. Table 3: Laws governing to sale, storage of drugs and safe medication\n1. Blood Bank Regulation Under Drugs and Cosmetics \n(2nd Amendment) Rules 1999\n2. Drugs and Cosmetics Act 1940 and Amendment Act 1982 \n3. Excise permit to store the spirit, Central Excise Act 1944\n4. IPC Section 274 (Adulteration of drugs), Sec 275 (Sale of \nAdulterated drug), Sec 276 (Sale of drug as different drug \nor preparation), Sec 284 (negligent conduct with regard to \npoisonous substances)\n5. Narcotics and Psychotropic Substances Act\n6.",
+            "predicted": "There is no mention of \"Table 3\" or any laws and regulations regarding the sale, storage of drugs, and safe medication in the provided context. The text appears to be a collection of unrelated passages about various topics such as jail rules in Monopoly, mobile devices, laptop security, and warning labels.",
+            "scores": {
+                "BLEU": 1.0007827459321827e-78,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.6483865976333618
+            }
+        },
+        {
+            "question": "What are some of the key laws that regulate medical professional practice in India?",
+            "ground_truth": "Pharmacy Act 1948\n7. Sales of Good Act 1930\n8. The Drug and Cosmetics Rule 1945\n9. The Drugs Control Act 1950\n10. VAT Act/Central Sales Tax Act 1956\nLaws Governing Management of Patients\nThese are the laws for setting standards and norms for \nconduct of medical professional practice, regulating/ \nprohibiting performance of certain procedure, prevention \nof unfair practices and control of public health problems/ \nepidemic disease. They deals with the management of \nemergencies, medicolegal cases and all aspects related there \nto including dying declaration, and conduct of autopsy and \nthe types of professional negligence.",
+            "predicted": "Based on the provided context, it can be inferred that there is no direct information about specific laws regulating medical professional practice in India. However, the text does mention that \"With time, the parliament has passed a large number of bills and acts to strengthen the healthcare delivery in India.\" This suggests that various laws have been enacted over time to regulate and improve healthcare services in India, but it does not provide specific details about these laws.\n\nIt can be inferred that some of these laws might include modifications to colonial-era laws, as mentioned in the first paragraph. Additionally, the context mentions \"enactment of new laws\" and \"modification of the colonial laws,\" which implies that there may be specific laws regulating medical professional practice in India, but this information is not explicitly stated.\n\nTo answer the question more accurately, one would need to refer to external sources or additional context that specifically addresses the key laws regulating medical professional practice in India.",
+            "scores": {
+                "BLEU": 2.3403270732500387e-155,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.39045047760009766
+            }
+        },
+        {
+            "question": "What are some key legal laws listed in Table 4 that govern patient management?",
+            "ground_truth": "These laws are listed \nin Table 4. Table 4: Laws governing management of patients\n1. Birth and Deaths and Marriage Registration Act 1886 \n2. Drugs and Magic Remedies (Objectionable) Advertisement \nAct \n3. Guardians and Wards Act 1890 \n4. Indian Lunacy Act 1912\n5. Law of Contract Section 13 (for consent)\n6. Lepers\u2019 Act \n7. PNDT Act 1994 and Preconception and Prenatal Diagnostic \nTech (prohibition of sex selection) Rules 1996 (Amendment \nAct 2002)\n8. The Epidemic Disease Act 1897\n9. Transplantation of Human Organ Act 1994, Rules 1995\n10.",
+            "predicted": "There is no mention of a table or specific legal laws governing patient management in the provided text. The text appears to be a collection of references, descriptions of games (specifically Monopoly), and information about technology (bots, mobile computing). There is no discussion of medical law or patient management.",
+            "scores": {
+                "BLEU": 5.524542877044741e-232,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.5636415481567383
+            }
+        },
+        {
+            "question": "What are some key environmental laws in India listed under Table 5, alongside other relevant legislation?",
+            "ground_truth": "The Medical Termination of Pregnancy Act 1971\n11. Medical Termination of Pregnancy Rules 2003\n12. The Mental Health Act 1987\nLaws Governing Environmental Safety\nThese are the laws aimed at protection of environment \nthrough prevention of air, water, surface, noise pollution and \npunishment of offenders. These laws are listed in Table 5. Table 5: Laws governing environment safety\n1. Air (prevention and control of pollution) Act 1981\n2. Biomedical Waste Management Handling Rules 1998 \n(Amended on 2000)\n3. Environment Protection Act and Rule1986, 1996\n4.",
+            "predicted": "There is no mention of \"Table 5\" or environmental laws in the provided context. The text only discusses laws related to hospital premises safety, digital security, and professional conduct of doctors, but does not touch upon environmental laws.",
+            "scores": {
+                "BLEU": 3.582458926606275e-232,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.5146439671516418
+            }
+        },
+        {
+            "question": "What are the specific laws governing employment and management of manpower?",
+            "ground_truth": "NOC from Pollution Control Board \n5. Noise Pollution Control Rule 2000\n6. Public Health Bye Law 1959\n7. Water (prevention and control of pollution) Act 1974\n8. Delhi Municipal Corporation (malaria and other mosquito \nborne diseases) Bye Law 1975\n9. The Cigarettes and Other Tobacco Products (prohibition \nof advertisement and regulation of trade and commerce, \nproduction, supply and distribution) Bill 2003\n10. Prohibition of Smoking in Public Places Rules 2008\n11. IPC Section 278 (making atmosphere noxious to health), \nSec 269 (negligent act likely to spread infection or disease \ndangerous to life, unlawfully or negligently)\nLaws Governing Employment and \nManagement of Manpower\nThis group deals with the laws regulating the employment \nof manpower , their salaries and benefits, service rules and \nsystem of redressal of grievances and disputes.",
+            "predicted": "The specific laws mentioned in the context that govern employment and management of manpower are:\n\n1. The Shops and Factories Act (for national holiday)\n2. The Payment of Gratuity Act 1972\n3. Workmen\u2019s Compensation Act 1923 \n\nThese laws are mentioned in the section \"Laws Governing to Medicolegal Aspects\" under Table 7, but they actually relate to employment and management of manpower rather than medicolegal aspects.",
+            "scores": {
+                "BLEU": 1.4308020002766578e-155,
+                "ROUGE-1": 3.704801422643747e-05,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 3.704801422643747e-05,
+                "Cosine Similarity": 0.2930176258087158
+            }
+        },
+        {
+            "question": "What are some of the key laws that govern the safety of patients, public and staff within hospital premises in India?",
+            "ground_truth": "These laws \nare listed in Table 6. Laws Applicable to Medical Practice and Hospitals in India\nInternational Journal of Research Foundation of Hospital & Healthcare Administration, July-December 2013;1(1):19-24\n23\nJRFHHA\nTable 8: Laws governing the safety of patients, public and staff \nwithin the hospital premises\n1. The Radiation Surveillance Procedures for the Medical \nApplication of Radiation 1989, Radiation Protection Rules \n1971\n2. AERB Safety Code no. AERB/SC/Med-2(rev-1) 2001\n3. Arms Act 1950\n4. Boilers Act 1923\n5.",
+            "predicted": "Based on the provided context, it appears that there is no direct information about specific laws governing patient, public, and staff safety within hospitals. However, I can identify a few references related to healthcare legislation:\n\n1. The Epidemic Disease Act of 1807, which was first enacted in 1807 and is still in force with amendments.\n2. The Lepers Act of 1898, which was repealed and substituted by another law in the early 1980s.\n\nAdditionally, the context mentions that the parliament has passed a large number of bills and acts to strengthen healthcare delivery in India over time, but it does not provide specific details about these laws.\n\nIt is likely that more recent legislation may have been enacted to address patient, public, and staff safety within hospitals. However, based on the provided information, we can only infer that some early attempts were made to regulate healthcare through legislation.",
+            "scores": {
+                "BLEU": 3.5007688588086707e-155,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.6372717618942261
+            }
+        },
+        {
+            "question": "What are the relevant laws related to safety standards for industrial storage facilities in India?",
+            "ground_truth": "Explosive Act 1884 (for diesel storage)\n6. Gas Cylinder Rules 2004 \n7. Insecticide Act 1968\n8. IPC Section 336 (act endangering life or personal safety of \nothers), Sec 337 (causing hurt by act endangering life or \npersonal safety of others), Sec 338 (causing grievous hurt \nby act endangering the life and personal safety of others). 9. NOC from chief fire office \n10. Periodic fitness certificate for operation of lifts\n11. Petroleum Act and Storage Rules 2002 \n12. Prevention of Food Adulteration Act 1954\n13. The Indian Fatal Accidents Act 1955 \n14.",
+            "predicted": "There is no mention of safety standards for industrial storage facilities in the provided context. The text discusses laws and regulations related to healthcare, medical practices, digital identity theft, and computer policies, but does not address industrial storage facilities or workplace safety standards.",
+            "scores": {
+                "BLEU": 4.035598916488548e-232,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.38068103790283203
+            }
+        },
+        {
+            "question": "What are the specific laws regulating professional training and research activities in India?",
+            "ground_truth": "The Tamil Nadu Medicare Service Persons and Medicare \nService Institutions (prevention of violence and damage or \nloss to property) Act 2008\nLaws Governing Professional Training \nand Research\nThere are the laws meant to regulate the standards of \nprofessional education and training of doctors, nurses, \ntechnician and controlling research activities. These laws \nare listed in Table 9. Table 9: Laws governing professional training and research\n1. MCI rules for MBBS, PG and internship training\n2. National board of examination rules for DNB training\n3.",
+            "predicted": "The text does not specifically mention the laws regulating professional training and research activities in India. However, it mentions that the credential of hospital staff can be verified from the registering councils (Table 2: Laws governing to the qualification/practice and conduct of professionals) and that the councils can take action against them in case of professional misconduct.\n\nThe specific laws mentioned are:\n\n1. The Indian Medical Council Act 1956\n2. Indian Medical Council (Professional Conduct, Etiquette, and Ethics Regulations 2002)\n\nThese laws primarily focus on the qualifications, practice, and conduct of medical professionals rather than specifically regulating training and research activities.",
+            "scores": {
+                "BLEU": 0.04704512733171129,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.7092598676681519
+            }
+        },
+        {
+            "question": "What are the additional laws governing the business aspects of hospitals that are listed in Table 10, alongside the ICMR rules and NCI rules mentioned earlier?",
+            "ground_truth": "ICMR rules governing medical research \n4. NCI rules for nursing training \n5. Ethical Guidelines for Biomedical Research on Human \nSubjects, 2000\nLaws Governing the Business Aspects\nSome rules are applicable to hospital in relation to its \nbusiness aspects. These are listed in Table 10. Table 10: Laws governing the business aspects\n1. Cable Television Network Act 1995\n2. Charitable and Religious Trusts Act 1920 \n3. Contracts Act 1982\n4. Copyright Act 1982\n5. Custom Act 1962\n6. FEMA 1999\n7. Gift Tax Act 1958\n8.",
+            "predicted": "There is no mention of Table 10 or any specific laws governing the business aspects of hospitals being listed alongside the ICMR rules and NCI rules. The context only mentions Tables 2 (listing laws related to qualification/practice and conduct of professionals) and 8 (laws dealing with safety of facilities and services against accidental hazards), but not Table 10.",
+            "scores": {
+                "BLEU": 0.03822936183039523,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.6911394000053406
+            }
+        },
+        {
+            "question": "Which of the listed laws is not specifically related to employment and management of manpower?",
+            "ground_truth": "Income Tax Act 1961\n9. Insurance Act 1938\n10. Sales of Good Act 1930\nTable 6: Laws governing to employment and management \nof manpower\n1. Bombay Labor Welfare Fund Act 1953\n2. Citizenship Act 1955\n3. Delhi Shops and Establishment Act 1954\n4. Employee Provident Fund and Miscellaneous Provision \nAct 1952\n5. Employment Exchange (compulsory notification of vacancies) \nAct 1959\n6. Equal Remuneration Act 1976\n7. ESI Act 1948 \n8. ESI Rules 1950\n9. Indian Trades Union Act 1926\n10. Industrial Dispute Act 1947\n11. Maternity Benefits Act 1961 \n12.",
+            "predicted": "Based on the given context, there is no mention of any specific law being discussed. However, it mentions regulations such as GDPR (General Data Protection Regulation), which is a data protection regulation.\n\nTherefore, I would say that none of the listed laws are specifically mentioned in the context, but if I had to choose something not related to employment and management of manpower based on general knowledge, I would say GDPR is related to data protection rather than direct employment or management of manpower.",
+            "scores": {
+                "BLEU": 0.05282934333820537,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.34344011545181274
+            }
+        },
+        {
+            "question": "What are some of the key labour laws and regulations mentioned in the context that govern the doctor-patient relationship, legal consequences of breach of contract, and medicolegal aspects of negligence of duty?",
+            "ground_truth": "Minimum Wages Act 1948\n13. Negotiable Instrument Act 1881\n14. Payment of Bonus Act 1956\n15. Payment of Gratuity Act 1972\n16. Payment of Wedges Act 1936\n17. Persons with Disabilities Act 1995\n18. PPF Act 1968 \n19. SC and ST ACT 1989\n20. Shops and Factories Act (for national holiday)\n21. TDS Act \n22. The Essential Service Maintenance Act 1981\n23. The Payment of Gratuity Act 1972 \n24. Workmen\u2019s Compensation Act 1923\nLaws Governing to Medicolegal Aspects\nThese are the laws governing the doctor-patient relationship, \nlegal consequences of breach of contract and medicolegal \naspects of negligence of duty.",
+            "predicted": "There is no mention of labor laws or regulations governing the doctor-patient relationship, legal consequences of breach of contract, or medicolegal aspects of negligence of duty in the provided context. The text appears to be a collection of unrelated snippets about board games (JAIL), technology (bots, mobile devices, email investigation), and computing devices.",
+            "scores": {
+                "BLEU": 0.09715898075041625,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.560478150844574
+            }
+        },
+        {
+            "question": "What are the specific laws listed in Table 7, specifically those related to the medicolegal aspects governing hospitals and their facilities?",
+            "ground_truth": "These laws are listed in \nTable 7. Table 7: Laws governing to medicolegal aspects\n1. Consumer Protection Act 1986\n2. Indian Evidence Act \n3. Law of privileged communication \n4. Law of torts\n5. IPC Section 52 (good faith), Sec 80 (accident in doing \nlawful act), Sec 89 (for insane & children), Sec 90 \n(consent under fear) , Sec 92 (good faith/consent), Sec 93 \n(communication in good faith). Laws Governing the Safety of Patients, Public \nand Staff within the Hospital Premises\nThese laws deal with safety of facilities and services against \nany accidental hazards that may endanger the lives and the \nliability of management for any violation.",
+            "predicted": "The specific laws listed in Table 7 that govern medicolegal aspects include:\n\n1. Consumer Protection Act 1986\n2. Indian Evidence Act \n3. Law of privileged communication \n4. Law of torts\n5. IPC Section 52 (good faith), Sec 80 (accident in doing lawful act), Sec 89 (for insane & children), Sec 90",
+            "scores": {
+                "BLEU": 0.2754582460127007,
+                "ROUGE-1": 0.0002538715410002539,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0002538715410002539,
+                "Cosine Similarity": 0.8495821952819824
+            }
+        },
+        {
+            "question": "What are the initial licences and certifications required by a hospital in India?",
+            "ground_truth": "These laws are \nlisted in Table 8. Madhav Madhusudan Singh et al\n24\nLicences/Certifications Required for Hospitals\nA hospital administrator should be aware about the licences \nthat are essentially required and to renew them as and when \nrequired. These are as listed in Table 11. Table 11: Licences/certifications required for hospitals\nSr. no. Licences/certifications\nFrequency \n1. Registration under societies \nregistration act \nInitially \n2. Inspection for electrical installation/ \nsubstation \nInitially \n3. NOC from local municipal office for \nany bye law\nInitially\n4.",
+            "predicted": "There is no mention of hospitals or licensing requirements for hospitals in the provided context. The text appears to be about various topics such as Monopoly, technology (bots, mobile devices), and laptop security, but not hospitals or medical licenses.",
+            "scores": {
+                "BLEU": 1.4184663658136825e-155,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.6366283297538757
+            }
+        },
+        {
+            "question": "What are the various licenses and registrations required for a medical store/ pharmacy?",
+            "ground_truth": "Licence for storage of petrol/diesel \non form XV under the petroleum \nrules 2002\n2 yearly \n5. Income tax exemption certificate \n3 yearly \n6. NOC from Delhi fire services \nBefore \nimplementation \n7. Registration for operation of X-ray \ninstallation with AERB \nEvery 2 years\n8. Drug Licence for medical store, \nIPD pharmacy, OPD pharmacy \nEvery 5 years \n9. Licence to operate blood bank under \nrule 122G of drug and cosmetic act \nEvery 5 years\n10. Registration under PNDT Act 1994 Every 5 years \n11. Income tax registration/PAN \nOnce only\n12.",
+            "predicted": "There is no mention of medical stores/pharmacies or any licenses/registrations related to them in the provided context. The text appears to be about games, technology, mobile devices, and laptop security measures.",
+            "scores": {
+                "BLEU": 1.8359841788707702e-232,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.2646682858467102
+            }
+        },
+        {
+            "question": "What types of licenses, registrations, and insurance policies does a hospital administrator need to renew or obtain periodically?",
+            "ground_truth": "Registration for VAT/Sales tax\nOnce only\n13. Registration for EPF \nOnce only\n14. Registration for ESI coverage of \nemployee \nOnce only\n15. Registration under rule 34, sub rule \n(6) of MTP Act 1971\nOne time \nregistration\n16. Registration under Delhi nursing \nHome Act 1953 \nYearly \n17. Indemnity insurance policy\nYearly \n18. Standard fire and special perils \npolicy \nYearly \n19. Authorization for generation of \nBMW under BMW handling rule \n1996 \nYearly renewal \n20. Licence for operating lift under \nSect 5 and 6 and Rules 4 and 5 \n(inspector of lift, state govt)\nYearly renewal \nPeriodic Reports and Returns as \nLegal Commitment\nA hospital administrator should be aware about the reports \nand returns that are essentially required by different \nagencies with fixed periodicity.",
+            "predicted": "There is no mention of hospital administrators, licenses, registrations, or insurance policies in the provided context. The text appears to be about various topics unrelated to healthcare administration, including:\n\n* A description of a board game (Monopoly) with rules for landing on and leaving \"Jail\"\n* Information about bots, mobile devices, and laptop security\n* Word processing software and computing devices\n\nTherefore, I cannot provide an answer to the question based on the provided context.",
+            "scores": {
+                "BLEU": 6.3659256723460145e-232,
+                "ROUGE-1": 3.282778543759438e-05,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 3.282778543759438e-05,
+                "Cosine Similarity": 0.29835987091064453
+            }
+        },
+        {
+            "question": "What are the different types of reports that hospitals must submit periodically, as per Table 12?",
+            "ground_truth": "Some of these are listed \nin Table 12. Table 12: Periodic reports and return as legal commitment \nfor hospitals\nSr. no. Periodic reports and return for \nhospitals\nFrequency \n1. Biomedical waste generation \nAnnual \n2. Income Tax\nAnnual return \n3. Units processed in blood bank Monthly \n4. MTP reports \nMonthly \n5. PNDT report (prenatal USG \ndone)\nMonthly \n6. Employees provident fund \nMonthly/annual \n7. ESI act \nMonthly/annual\n8. VAT\nMonthly/quarterly online\n9. Registration of births and deaths On every occurrence \n10.",
+            "predicted": "There is no mention of \"Table 12\" in the provided context. The text only mentions Tables 2 and 8, which refer to laws governing qualification/practice and conduct of professionals and safety of patients, public, and staff within hospital premises respectively.\n\nHowever, it does not provide information about reports that hospitals must submit periodically.",
+            "scores": {
+                "BLEU": 6.952831903520818e-232,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.5531635284423828
+            }
+        },
+        {
+            "question": "What measures are typically taken by healthcare facilities and professionals in India to monitor and record post-polio paralysis cases?",
+            "ground_truth": "Post polio paralysis case \nOn every occurrence\n11. Communicable disease report\nOn every occurrence \n12. Radiologist registration under \nPNDT \nOn induction of a new \nradiologist \n13. USG machine registration \nunder PNDT\nOn induction of each \nmachine\n14. Needle stick injuries \nOn occurrence \n15. TLD Badges for monitoring the \ndosage received \nQuarterly \n16. TDS \nQuarterly\nCONCLUSION \nThe health legislations are very few as compared to the size \nand problems in the health care sector. There is a need for \nhaving a comprehensive health care act, framed in order to \ngear the entire health care sector to the objectives laid down \nin the different policy in India.",
+            "predicted": "There is no mention of \"post-polio paralysis\" or any related topic in the provided context. The text appears to be about a board game called Monopoly, mobile devices, and IT policies, but it does not discuss healthcare facilities or professionals in India monitoring or recording post-polio paralysis cases.",
+            "scores": {
+                "BLEU": 1.4610516028599749e-155,
+                "ROUGE-1": 0.001230958609016772,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.001230958609016772,
+                "Cosine Similarity": 0.748599648475647
+            }
+        },
+        {
+            "question": "What are the common medico-legal situations that arise from noncompliance with rules and regulations in hospitals and medical practices?",
+            "ground_truth": "Most of the common medico \nlegal situations arise out on noncompliance with these rules \nand regulations. If a hospital or doctor acquaints well with \nthese rules and regulations and follows them sincerely, he/ \nshe would be on the right side of the law. REFERENCES \n\t 1. Sinha TK, Times of India. Mumbai edn, Jun 12, 2012. p. 5. 2. Henry SE, A history of medicine, Vol II, Early Greek, Hindu and \nPersian medicine, Oxford University Press, 1987;(2). p. 142-143. 3. Rangarajan LN, Kautilya\u2019s Arthashastra, New Delhi, Penguin \nBooks, 1st ed.",
+            "predicted": "There is no information provided about medico-legal situations arising from noncompliance with rules and regulations in hospitals and medical practices. The context only discusses various topics unrelated to this, such as a board game (JAIL), mobile devices, laptops, and warning labels, but does not mention anything related to hospitals or medical practices.",
+            "scores": {
+                "BLEU": 7.35297878620734e-79,
+                "ROUGE-1": 0.0017311199727966865,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0017311199727966865,
+                "Cosine Similarity": 0.6989620327949524
+            }
+        },
+        {
+            "question": "What were some of the key factors that influenced public health and medical research in ancient India?",
+            "ground_truth": "p130-131. 4. Kosambi DD. The culture and civilisation of ancient India in \nhistorical outline, New Delhi, Vikas Publication 1970:160. 5. Chattopadhyay D. Science and society in ancient India. Research \nIndia Publication, 1979 edn. p-22. 6. Ramasubban R, Public health and medical research in India: their \norigins lender the impact of British Colonial Policy\u2019 SAREC. 1982;R.4\n\t 7. Singh J, et al. Medical Negligence and Compensation. Bharat \nLaw Publication, 3rd edition. p.2-4. 8. Joshi SK. Quality Management in Hospitals.",
+            "predicted": "There is no mention of \"ancient India\" or any specific historical period in the provided context. The text appears to be discussing modern-day India, its parliamentary actions, and mobile technology. Therefore, I must answer that there is no information about key factors that influenced public health and medical research in ancient India based on this context.",
+            "scores": {
+                "BLEU": 0.05866727900733182,
+                "ROUGE-1": 0.0,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.0,
+                "Cosine Similarity": 0.6936646699905396
+            }
+        },
+        {
+            "question": "What is the likely cause of a patient presenting with a sudden onset of hemiparesis and bilateral lower limb weakness?",
+            "ground_truth": "Jaypee Brothers \nMedical Publishers, 1st edition. p 368-369.",
+            "predicted": "There is no information in the provided context about medicine or patients, let alone a condition like hemiparesis. The text appears to be about rules for a game (likely Monopoly), mobile devices, and laptop security measures. Therefore, I cannot provide an answer to the question based on the given context.",
+            "scores": {
+                "BLEU": 0,
+                "ROUGE-1": 0.006610356224752111,
+                "ROUGE-2": 0.0,
+                "ROUGE-L": 0.006610356224752111,
+                "Cosine Similarity": 0.35025566816329956
+            }
+        }
+    ],
+    "overall_scores": {
+        "BLEU": [
+            1.033143260551428e-78,
+            9.470993827499573e-79,
+            0.06672700346888545,
+            5.379811252103249e-233,
+            1.9614601722809197e-155,
+            1.1592466907427538e-231,
+            1.7149045793951492e-155,
+            0.024861299204894605,
+            7.752610771488707e-79,
+            3.114363864867554e-155,
+            2.459577988187888e-155,
+            1.1019093389397188e-78,
+            0.0416870697551257,
+            1.1449947765124445e-78,
+            1.108200044068413e-78,
+            5.573105998614471e-79,
+            0.04028025583112018,
+            0.08582398021693088,
+            7.958129588701597e-156,
+            1.1239880728207442e-78,
+            3.2789814858355315e-155,
+            9.935343993831372e-79,
+            1.5250600405979056e-155,
+            1.421486266190023e-155,
+            6.4161393452426944e-232,
+            1.0654409500388019e-232,
+            0.05810919880974509,
+            1.6108832555537888e-155,
+            1.7778065888385765e-232,
+            1.0007827459321827e-78,
+            2.3403270732500387e-155,
+            5.524542877044741e-232,
+            3.582458926606275e-232,
+            1.4308020002766578e-155,
+            3.5007688588086707e-155,
+            4.035598916488548e-232,
+            0.04704512733171129,
+            0.03822936183039523,
+            0.05282934333820537,
+            0.09715898075041625,
+            0.2754582460127007,
+            1.4184663658136825e-155,
+            1.8359841788707702e-232,
+            6.3659256723460145e-232,
+            6.952831903520818e-232,
+            1.4610516028599749e-155,
+            7.35297878620734e-79,
+            0.05866727900733182,
+            0
+        ],
+        "ROUGE-1": [
+            0.0017348137076972352,
+            0.0,
+            0.0013994402239104358,
+            0.0,
+            0.0,
+            0.001174307048057962,
+            0.0011336326123429917,
+            0.001207729468599034,
+            0.0,
+            0.0010866343969179097,
+            0.0,
+            0.0012191209496310556,
+            0.000965561635017702,
+            0.0,
+            0.0016153784023907598,
+            0.0012243360331512527,
+            0.0010564124234100994,
+            0.0013560279680768417,
+            0.0014992503748125939,
+            0.0012319063751154912,
+            0.0012426934229299949,
+            0.001574048727073638,
+            0.0007393897569872331,
+            0.0008709925965629292,
+            0.0017162154680839285,
+            0.0011627155868483947,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            3.704801422643747e-05,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0002538715410002539,
+            0.0,
+            0.0,
+            3.282778543759438e-05,
+            0.0,
+            0.001230958609016772,
+            0.0017311199727966865,
+            0.0,
+            0.006610356224752111
+        ],
+        "ROUGE-2": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "ROUGE-L": [
+            0.0017348137076972352,
+            0.0,
+            0.0013994402239104358,
+            0.0,
+            0.0,
+            0.001174307048057962,
+            0.0011336326123429917,
+            0.001207729468599034,
+            0.0,
+            0.0010866343969179097,
+            0.0,
+            0.0012191209496310556,
+            0.000965561635017702,
+            0.0,
+            0.0016153784023907598,
+            0.0012243360331512527,
+            0.0010564124234100994,
+            0.0013560279680768417,
+            0.0014992503748125939,
+            0.0012319063751154912,
+            0.0012426934229299949,
+            0.001574048727073638,
+            0.0007393897569872331,
+            0.0008709925965629292,
+            0.0017162154680839285,
+            0.0011627155868483947,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            3.704801422643747e-05,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0002538715410002539,
+            0.0,
+            0.0,
+            3.282778543759438e-05,
+            0.0,
+            0.001230958609016772,
+            0.0017311199727966865,
+            0.0,
+            0.006610356224752111
+        ],
+        "Cosine Similarity": [
+            0.7707897424697876,
+            0.5736241340637207,
+            0.7488197088241577,
+            0.44560617208480835,
+            0.5679473876953125,
+            0.530136227607727,
+            0.68082594871521,
+            0.6566650867462158,
+            0.7092881202697754,
+            0.48236751556396484,
+            0.6143593788146973,
+            0.5700347423553467,
+            0.6375499963760376,
+            0.6713293790817261,
+            0.6127299070358276,
+            0.6275951266288757,
+            0.7285792827606201,
+            0.8091021776199341,
+            0.6490980386734009,
+            0.7404954433441162,
+            0.7569243907928467,
+            0.5507618188858032,
+            0.49077335000038147,
+            0.607303261756897,
+            0.591484546661377,
+            0.622623860836029,
+            0.5962567925453186,
+            0.5362484455108643,
+            0.6797488927841187,
+            0.6483865976333618,
+            0.39045047760009766,
+            0.5636415481567383,
+            0.5146439671516418,
+            0.2930176258087158,
+            0.6372717618942261,
+            0.38068103790283203,
+            0.7092598676681519,
+            0.6911394000053406,
+            0.34344011545181274,
+            0.560478150844574,
+            0.8495821952819824,
+            0.6366283297538757,
+            0.2646682858467102,
+            0.29835987091064453,
+            0.5531635284423828,
+            0.748599648475647,
+            0.6989620327949524,
+            0.6936646699905396,
+            0.35025566816329956
+        ]
+    },
+    "average_scores": {
+        "BLEU": 0.018099533582805357,
+        "ROUGE-1": 0.0007164650882621906,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0007164650882621906,
+        "Cosine Similarity": 0.5935788501282128
+    }
+}
