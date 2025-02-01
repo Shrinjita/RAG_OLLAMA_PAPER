@@ -1,7 +1,3 @@
-Here's a comprehensive `README.md` for your project, ensuring seamless usage for anyone who clones or downloads the repository:
-
----
-
 # 🚀 RAG: Local Server Deployable Retrieval-Augmented Generation (RAG)
 
 ## 📌 Overview
@@ -117,17 +113,3 @@ python scripts/metrics_data_gen.py
 - ✅ **Web UI Integration**
 - ✅ **More Evaluation Metrics**
 - ✅ **Fine-Tuning Support**
-
----
-
-## 🤝 Contributing
-Feel free to contribute! Fork the repo, make changes, and submit a PR.
-
----
-
-## ⚡ License
-**MIT License** - Free to use & modify.
-
----
-
-With this **README**, anyone can quickly set up and use your **local RAG system**. 🚀 Let me know if you need modifications!
